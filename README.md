@@ -1,4 +1,4 @@
-## **Storytelling: Desvendando a Desigualdade Global**
+## **Desvendando a Desigualdade Global**
 
 ### **Introdução: O Cenário Atual da Desigualdade**
 A desigualdade de renda e riqueza não é apenas uma questão econômica; é uma realidade que afeta milhões de vidas ao redor do mundo, influenciando acesso a serviços básicos, educação, saúde e oportunidades. Usando dados da **World Inequality Database (WID)**, embarcamos em uma jornada para entender melhor como a desigualdade se manifesta, como ela tem evoluído ao longo dos anos e, mais importante, o que esses números nos dizem sobre o futuro.
