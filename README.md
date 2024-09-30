@@ -13,7 +13,7 @@ Nosso trabalho começa com um robusto dataframe que contém informações essenc
 Fonte dos dados: **https://wid.world/data/** <br>
 Documento contendo a estrutura geral do World Inequality Database (WID), bem como as informações são organizadas dentro dele e como recuperar e interpretar seu conteúdo: https://wid.world/codes-dictionary/<br>
 
-Os filtreos utilizados foram geração do arquivo para analise foram:
+Os filtros utilizados foram geração do arquivo para analise foram:
 
 - indicadores: todos
 - países: todos
@@ -50,3 +50,16 @@ Nossas análises indicam que, sem intervenções políticas significativas, a de
 
 ### **Conclusão: Um Chamado à Ação**
 Os dados da **World Inequality Database** trazem à tona um retrato preocupante, mas que não precisa ser o destino inevitável. Com uma compreensão profunda dos padrões de desigualdade, temos a oportunidade de intervir de forma significativa, promovendo políticas que visem à equidade e justiça social. Nosso relatório deixa claro que a análise da desigualdade não é apenas uma questão de números; é uma questão de vidas, e as decisões que tomamos hoje definirão o mundo de amanhã.
+
+
+### **Extrutura dos Notebooks**
+
+```
+- analise_educacao.ipynb                        : analise da educação primaria, secundária e terciária no Brasil
+- analise_education.ipynb                       : analise da educação primaria, secundária e terciária no mundo, bem como o efeito de inventimentos publicos comparado ao Brasil 
+- analise_investimento_publico.ipynb            : analise de investimentos publicos no Brasil
+- analise_national_co2_footprint.ipynb          : analise das emissões de CO2 no mundo comparado ao Brasil 
+- analise_total_public_revenue.ipynb            : analise da receita pública total no mundo comparado ao Brasil
+- analise_housing_community_amenities.ipynb     : analise das comodidades da comunidade habitacional no mundo comparado ao Brasil
+- initial.ipynb                                 : junção dos dados com os metadados, filtragem das colunas e tradução das mesmas, remoção de colunas com valores nulos
+```
