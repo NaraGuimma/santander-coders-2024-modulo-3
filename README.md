@@ -9,7 +9,17 @@ O aumento da desigualdade global tem sido uma preocupação crescente. De acordo
 
 
 ### **Explorando os Dados: A Base e Suas Variáveis**
-Nosso trabalho começa com um robusto dataframe que contém informações essenciais sobre renda e desigualdade em várias nações. As colunas finais chave incluem:
+Nosso trabalho começa com um robusto dataframe que contém informações essenciais sobre renda e desigualdade em várias nações. 
+Fonte dos dados: **https://wid.world/data/**
+Documento contendo a estrutura geral do World Inequality Database (WID), bem como as informações são organizadas dentro dele e como recuperar e interpretar seu conteúdo: https://wid.world/codes-dictionary/
+
+Os filtreos utilizados foram geração do arquivo para analise foram:
+
+- indicadores: todos
+- países: todos
+- anos: após 1985 (inicio da redemocratização do Brasil após a ditadura)
+
+Após tratamentos dos dados colunas finais chave foram:
 
 - **Percentil**: Indicador da posição de uma pessoa ou grupo dentro da distribuição de renda ou riqueza.
 - **Ano**: O ano em que os dados foram coletados.
