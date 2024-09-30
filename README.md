@@ -52,7 +52,7 @@ Nossas análises indicam que, sem intervenções políticas significativas, a de
 Os dados da **World Inequality Database** trazem à tona um retrato preocupante, mas que não precisa ser o destino inevitável. Com uma compreensão profunda dos padrões de desigualdade, temos a oportunidade de intervir de forma significativa, promovendo políticas que visem à equidade e justiça social. Nosso relatório deixa claro que a análise da desigualdade não é apenas uma questão de números; é uma questão de vidas, e as decisões que tomamos hoje definirão o mundo de amanhã.
 
 
-### **Extrutura dos Notebooks**
+### **Estrutura dos Notebooks**
 
 ```
 - analise_educacao.ipynb                        : analise da educação primaria, secundária e terciária no Brasil
